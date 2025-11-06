@@ -1,2 +1,2 @@
 # Lab-Practice-III
-Contains Design and Analysis of Algorithms (DAA) and Blockchain Technology (BT) programs.
+Contains Design and Analysis of Algorithms (DAA) and Machine Learning (ML) programs.
